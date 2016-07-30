@@ -10,7 +10,7 @@
 library(shiny)
 library(shinydashboard)
 
-
+runGitHub("TwitterMining", "idSaid")
 
 
 # Define UI for application that draws a histogram
