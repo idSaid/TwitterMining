@@ -7,6 +7,8 @@ library(tm)
 library(wordcloud)
 library(plyr)
 
+runGitHub("TwitterMining", "idSaid")
+
 #saoudiTrends <- getTrends(23424938)
 #japanTrends <- getTrends(23424856)
 #franceTrends <- getTrends(23424819)
